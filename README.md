@@ -1,12 +1,17 @@
 # Line-Detection-Using-OpenCV
 
-# 1. Convert the image to grayscale
 
-# 2. Reduce noise using Gaussian Blur
+# 1. Load the image
+![](images/original%20image.png)
 
-# 3. Fine Lane lines using canny function
+# 2. Convert the image to grayscale & Reduce noise using Gaussian Blur 
+![](images/gray%20image.png)
+
+# 3. Find Lane lines using canny function
+![](images/canny%20image.png)
 
 # 4. Find Region of interest
+![](images/original%20image.png)
 
 # 5. Merge it with Canny image using Bitwise and operator to each pixel
 
