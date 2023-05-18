@@ -7,7 +7,7 @@
 # 2. Convert the image to grayscale & Reduce noise using Gaussian Blur 
 ![](images/gray%20image.png)
 
-# 3. Fine Lane lines using canny function
+# 3. Find Lane lines using canny function
 ![](images/canny%20image.png)
 
 # 4. Find Region of interest
