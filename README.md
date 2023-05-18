@@ -1,6 +1,7 @@
 # Line-Detection-Using-OpenCV
 
 # 1. Convert the image to grayscale
+![](images/gray%20image.png)
 
 # 2. Reduce noise using Gaussian Blur
 
