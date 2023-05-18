@@ -1,6 +1,6 @@
 # Line-Detection-Using-OpenCV
 
-# .Convert the image to grayscale
+# 1. Convert the image to grayscale
 
 # 2. Reduce noise using Gaussian Blur
 
